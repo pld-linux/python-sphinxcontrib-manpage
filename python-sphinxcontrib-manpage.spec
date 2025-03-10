@@ -7,7 +7,7 @@ Summary:	Sphinx Linux manpage extension
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa do linuksowych stron man
 Name:		python-sphinxcontrib-manpage
 Version:	0.6
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib-manpage/
